@@ -1,4 +1,3 @@
-# AWS-Cloud-Security-Monitoring-Alerting-Lab
 # AWS Cloud Security Monitoring & Alerting Lab
 
 ## Overview
